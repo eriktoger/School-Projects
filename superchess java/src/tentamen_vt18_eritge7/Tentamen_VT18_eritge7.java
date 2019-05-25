@@ -41,6 +41,7 @@ public class Tentamen_VT18_eritge7 {
 	 System.out.println("*****Super Chess*****");
 	 System.out.println("Ange Pjäs med C(crocodile) S(superman)");
 	 System.out.println("Ange Plats ex. B3 (Avsluta med Q)");
+	 System.out.println("T.ex C:B3");  
       
       while(input.hasNext()){
 	 
