@@ -10,7 +10,10 @@ A collection of the school projects I have done the last years.
   Unfortunately I have not saved the instructions.
 
 - Introduction to cpp December 2018
-  First cours in C++
+  First course in C++
 
 - Object based cpp March 2019
-  Second coure in C++
+  Second course in C++
+  
+- Object oriented cpp June 2019
+  Third course in C++
