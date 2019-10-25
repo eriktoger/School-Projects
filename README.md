@@ -17,3 +17,6 @@ A collection of the school projects I have done the last years.
   
 - Object oriented cpp June 2019
   Third course in C++
+  
+- WI November 2019
+  Web Intelligence done in Python/Flask
